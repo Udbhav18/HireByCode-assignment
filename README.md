@@ -5,7 +5,7 @@
 
 # Setup
 #### cd to the frontend/frontend folder and run the following commands to start the react server at http://localhost:3000 -
-- `npn install`
+- `npm install`
 - `npm start`
 
 #### cd to the backend folder and run the following commands to start the django server at http://localhost:8000 -
